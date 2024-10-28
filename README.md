@@ -1,6 +1,6 @@
 # Customer Clustering Analysis
 
-Este proyecto utiliza técnicas de clustering (K-means) para segmentar clientes de un supermercado en base a tres variables: *edad, **ingresos* y *tamaño de la ciudad. El análisis incluye la exploración descriptiva de los datos, cálculos de correlación, y evaluación de la calidad del clustering mediante el **método del codo* y el *coeficiente de silueta*, permitiendo optimizar estrategias comerciales y campañas de marketing.
+Este proyecto utiliza técnicas de clustering (K-means) para segmentar clientes de un supermercado en base a tres variables: edad, ingresos y tamaño de la ciudad. El análisis incluye la exploración descriptiva de los datos, cálculos de correlación, y evaluación de la calidad del clustering mediante el método del codo y el coeficiente de silueta, permitiendo optimizar estrategias comerciales y campañas de marketing.
 
 ## Archivos del Proyecto
 

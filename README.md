@@ -11,7 +11,8 @@ Este proyecto utiliza técnicas de clustering (K-means) para segmentar clientes 
    Versión interactiva del análisis desde la aplicación de RStudio para su visualización en formato. [RMarkdown](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Customer_Clustering_Analysis.Rmd)
 
 3. **Customer_Data.xlsx**  
-   Dataset utilizado para el análisis, que contiene las variables relevantes: edad, ingresos y tamaño de la ciudad. [Excel](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Customer_Data.xlsx)
+Dataset utilizado para el análisis, que contiene las variables relevantes: edad, ingresos y tamaño de la ciudad, entre otros. Descarga cualquiera de las opciones: el primero está en formato Excel, y el segundo en formato CSV (delimitado por comas) para permitir una vista previa sin necesidad de descargarlo. [Excel](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Customer_Data.xlsx) [csv](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Customer_Data.csv)
+
 
 4. **Plantilla.tex**  
    La plantilla LaTeX se utiliza para personalizar la apariencia del documento PDF generado a partir del análisis. Esta plantilla incluye configuraciones específicas como el formato de títulos, encabezados y pies de página, y otros estilos personalizados que aseguran una presentación profesional y uniforme del reporte. [Plantilla.tex](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Plantilla.tex)

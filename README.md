@@ -4,20 +4,21 @@ Este proyecto utiliza técnicas de clustering (K-means) para segmentar clientes 
 
 ## Archivos del Proyecto
 
-1. *Customer_Clustering_Analysis_Report.pdf*  
+1. **Customer_Clustering_Analysis_Report.pdf**  
    Informe detallado del análisis, incluyendo la metodología, visualizaciones, resultados, y conclusiones obtenidas del clustering. [PDF](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Customer_Clustering_Analysis.pdf)
 
-2. *Customer_Clustering_Analysis.Rmd*  
+2. **Customer_Clustering_Analysis.Rmd**  
    Versión interactiva del análisis desde la aplicación de RStudio para su visualización en formato. [RMarkdown](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Customer_Clustering_Analysis.Rmd)
 
-3. *Customer_Data.xlsx*  
+3. **Customer_Data.xlsx**  
    Dataset utilizado para el análisis, que contiene las variables relevantes: edad, ingresos y tamaño de la ciudad. [Excel](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Customer_Data.xlsx)
 
-4. *Plantilla.tex*
+4. **Plantilla.tex**  
    La plantilla LaTeX se utiliza para personalizar la apariencia del documento PDF generado a partir del análisis. Esta plantilla incluye configuraciones específicas como el formato de títulos, encabezados y pies de página, y otros estilos personalizados que aseguran una presentación profesional y uniforme del reporte. [Plantilla.tex](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/Plantilla.tex)
 
-6. Integración de Imágenes
-En este proyecto, se ha incluido el logo de RStudio en los documentos para asegurar una presentación profesional y coherente. [Logo de RStudio](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/images.png)
+6. **Integración de Imágenes**  
+   En este proyecto, se ha incluido el logo de RStudio en los documentos para asegurar una presentación profesional y coherente. [Logo de RStudio](https://github.com/edinvalle/ClientClusterAnalysis1/blob/main/images.png)
+
   
 ## Requisitos 
 - *Lenguaje:* R

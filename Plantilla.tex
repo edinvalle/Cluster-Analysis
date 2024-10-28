@@ -1,0 +1,18 @@
+\usepackage{setspace}  % Para manejar el interlineado
+\usepackage{titlesec}  % Para personalizar los encabezados
+\usepackage{geometry}  % Para ajustar márgenes
+
+% Ajustar márgenes
+\geometry{margin=1in}  % Establece márgenes de 1 pulgada
+
+% Ajustes de texto
+\renewcommand{\baselinestretch}{1.5} % Interlineado 1.5
+\renewcommand{\normalsize}{\fontsize{13}{14}\selectfont} % Tamaño de letra normal a 12pt
+
+% Estilo del encabezado de nivel 1
+\titleformat{\section}[block]{\centering\bfseries\fontsize{14}{17}\selectfont}{\thesection}{1em}{}
+
+% Estilo de los encabezados de nivel 2 y menores
+\titleformat{\subsection}[block]{\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}[block]{\bfseries}{\thesubsubsection}{1em}{}
+

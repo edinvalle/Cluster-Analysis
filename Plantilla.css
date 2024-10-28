@@ -1,0 +1,24 @@
+body {
+  font-size: 12pt;      /* Tamaño de letra a 12 puntos */
+  line-height: 1.5;     /* Interlineado a 1.5 */
+  text-align: justify;  /* Justifica el texto */
+}
+
+h1 {
+  text-align: center;    /* Centra solo el encabezado de nivel 1 */
+  font-size: 14pt;       /* Tamaño de letra a 14 puntos para el encabezado de nivel 1 */
+  font-weight: bold;     /* Hace el texto en negrita */
+}
+
+h2, h3, h4, h5, h6 {
+  text-align: left;      /* Deja alineados a la izquierda los demás encabezados */
+  font-size: inherit;    /* Mantiene el tamaño de los encabezados por defecto */
+  font-weight: bold;     /* Hace todos los encabezados en negrita */
+}
+
+ul, ol {
+  margin-left: 20px;     /* Margen a la izquierda de 20px para viñetas */
+  padding-left: 0;       /* Elimina el padding por defecto (opcional) */
+  font-size: 12pt;       /* Tamaño de letra para viñetas */
+  line-height: 1.5;      /* Interlineado para viñetas */
+}

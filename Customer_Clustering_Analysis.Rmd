@@ -5,8 +5,6 @@ output:
   pdf_document:
     includes:
       in_header: Plantilla.tex  # Archivo de plantilla LaTeX para PDF
-  html_document:
-    css: Plantilla.css  # Archivo de plantilla CSS para HTML
 ---
 
 ```{r setup, include=FALSE}

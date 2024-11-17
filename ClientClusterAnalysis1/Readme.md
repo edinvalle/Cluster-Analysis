@@ -2,23 +2,26 @@
 
 Este proyecto utiliza técnicas de clustering (K-means) para segmentar clientes de un supermercado en base a tres variables: edad, ingresos y tamaño de la ciudad. El análisis incluye la exploración descriptiva de los datos, cálculos de correlación, y evaluación de la calidad del clustering mediante el método del codo y el coeficiente de silueta, permitiendo optimizar estrategias comerciales y campañas de marketing.
 
+## Objetivo 
+
+Segmentar a los clientes del supermercado mediante técnicas de clustering basadas en características y socioeconómicas: para identificar grupos y optimizar la torna de decisiones y planificación comercial. 
+
 ## Archivos del Proyecto
 
-1. **Customer_Clustering_Analysis_Report.pdf**  
-   Informe detallado del análisis, incluyendo la metodología, visualizaciones, resultados, y conclusiones obtenidas del clustering. [PDF](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Customer_Clustering_Analysis.pdf)
+Adjunto los archivos del proyecto, solo que en diferentes formatos para que puedas descargarlos según tu preferencia.
 
-2. **Customer_Clustering_Analysis.Rmd**  
-   Versión interactiva del análisis desde la aplicación de RStudio para su visualización en formato. [RMarkdown](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Customer_Clustering_Analysis.Rmd)
-
-3. **Customer_Data.xlsx**  
-Dataset utilizado para el análisis, que contiene las variables relevantes: edad, ingresos y tamaño de la ciudad, entre otros. Descarga cualquiera de las opciones: el primero está en formato Excel, y el segundo en formato CSV (delimitado por comas) para permitir una vista previa sin necesidad de descargarlo. [Excel](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Customer_Data.xlsx) [csv](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Customer_Data.csv )
+1. **ClusterAnalysis_Jupyter.ipynb** Visualización rápida sin ejecutar código. [Jupyter Notebook](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/ClusterAnalysis_Jupyter.ipynb)
 
 
-4. **Plantilla.tex**  
-   La plantilla LaTeX se utiliza para personalizar la apariencia del documento PDF generado a partir del análisis. Esta plantilla incluye configuraciones específicas como el formato de títulos, encabezados y pies de página, y otros estilos personalizados que aseguran una presentación profesional y uniforme del reporte. [Plantilla.tex](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Plantilla.tex)
+3. **Customer_Clustering_Analysis_Report.pdf** Vista rápida en PDF sin ejecutar código. [PDF](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Customer_Clustering_Analysis.pdf)
 
-6. **Integración de Imágenes**  
-   En este proyecto, se ha incluido el logo de RStudio en los documentos para asegurar una presentación profesional y coherente. [Logo de RStudio](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/images.png )
+4. **Customer_Clustering_Analysis.Rmd**  Requiere ejecutar el código desde RStudio para realizar el análisis. [RMarkdown](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Customer_Clustering_Analysis.Rmd)
+
+5. **Customer_Data.xlsx** Datos principales del cliente en formato Excel y CSV [Excel](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Customer_Data.xlsx) [csv](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Customer_Data.csv )
+
+6. **Plantilla.tex** Plantilla para personalizar el documento final en PDF. [Plantilla.tex](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Plantilla.tex)
+
+7. **Integración de Imágenes** Imagen para la portada del documento PDF. [Logo de RStudio](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/images.png )
 
   
 ## Requisitos 

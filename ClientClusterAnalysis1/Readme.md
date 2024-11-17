@@ -1,5 +1,6 @@
-<center>
+<p align="center">
     <h1>Customer Clustering Analysis</h1>
+</p>
 
 Este proyecto utiliza técnicas de clustering (K-means) para segmentar clientes de un supermercado en base a tres variables: edad, ingresos y tamaño de la ciudad. El análisis incluye la exploración descriptiva de los datos, cálculos de correlación, y evaluación de la calidad del clustering mediante el método del codo y el coeficiente de silueta, permitiendo optimizar estrategias comerciales y campañas de marketing.
 
@@ -21,7 +22,7 @@ A continuación, adjunto los archivos del proyecto en diferentes formatos para q
 
 5. **Plantilla.tex** - Plantilla para personalizar el documento final en PDF. [Plantilla.tex](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/Plantilla.tex)
 
-6. **Integración de Imágenes** - Imagen para la portada del documento PDF. [Logo de RStudio](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/images.png )
+6. **Integración de Imágenes** - Imagen para la portada del documento final. [Logo de RStudio](https://github.com/edinvalle/Cluster-Analysis/blob/main/ClientClusterAnalysis1/images.png )
 
   
 ### Requisitos 
